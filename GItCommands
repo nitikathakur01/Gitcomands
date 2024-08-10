@@ -1,0 +1,3 @@
+git init //  initializ the repo
+git config user.email  for use email local 
+git config  user.name  for use username local
